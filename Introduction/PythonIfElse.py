@@ -1,3 +1,5 @@
+#https://www.hackerrank.com/challenges/py-if-else
+
 n = int(input().strip())
 
 if (n % 2 != 0) :
